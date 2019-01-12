@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw10-1/class_function.cc
+iostream
+-
+class_function.h
+/home/doyoungkim/2016035050/hw10-1/class_function.h
+
+/home/doyoungkim/2016035050/hw10-1/class_function.h
+
+/home/doyoungkim/2016035050/hw10-1/class_function_main.cc
+iostream
+-
+class_function.h
+/home/doyoungkim/2016035050/hw10-1/class_function.h
+string
+-
+vector
+-
+

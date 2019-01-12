@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw7-1/sorted_array.cc
+iostream
+-
+sorted_array.h
+/home/doyoungkim/2016035050/hw7-1/sorted_array.h
+vector
+-
+algorithm
+-
+
+/home/doyoungkim/2016035050/hw7-1/sorted_array.h
+vector
+-
+
+/home/doyoungkim/2016035050/hw7-1/sorted_array_main.cc
+iostream
+-
+sorted_array.h
+/home/doyoungkim/2016035050/hw7-1/sorted_array.h
+string
+-
+sstream
+-
+cstring
+-
+cctype
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/number.dir/number.o CMakeFiles/number.dir/number_main.o  -o number -rdynamic 

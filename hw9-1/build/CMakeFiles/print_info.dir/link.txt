@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/print_info.dir/print_info.o CMakeFiles/print_info.dir/print_info_main.o  -o print_info -rdynamic 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw8-1/number.cc
+iostream
+-
+number.h
+/home/doyoungkim/2016035050/hw8-1/number.h
+
+/home/doyoungkim/2016035050/hw8-1/number.h
+
+/home/doyoungkim/2016035050/hw8-1/number_main.cc
+iostream
+-
+number.h
+/home/doyoungkim/2016035050/hw8-1/number.h
+string
+-
+cstring
+-
+

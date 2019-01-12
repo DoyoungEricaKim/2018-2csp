@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw9-2/Animals.cc
+iostream
+-
+string
+-
+Animals.h
+/home/doyoungkim/2016035050/hw9-2/Animals.h
+
+/home/doyoungkim/2016035050/hw9-2/Animals.h
+string
+-
+
+/home/doyoungkim/2016035050/hw9-2/Animals_main.cc
+iostream
+-
+string
+-
+cstring
+-
+vector
+-
+Animals.h
+/home/doyoungkim/2016035050/hw9-2/Animals.h
+

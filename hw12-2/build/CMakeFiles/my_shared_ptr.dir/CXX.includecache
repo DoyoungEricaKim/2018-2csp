@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw12-2/my_shared_ptr.h
+iostream
+-
+
+/home/doyoungkim/2016035050/hw12-2/my_shared_ptr_main.cc
+iostream
+-
+my_shared_ptr.h
+/home/doyoungkim/2016035050/hw12-2/my_shared_ptr.h
+

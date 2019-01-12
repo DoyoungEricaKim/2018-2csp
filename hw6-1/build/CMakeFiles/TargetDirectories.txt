@@ -1,0 +1,4 @@
+/home/doyoungkim/2016035050/hw6-1/build/CMakeFiles/rebuild_cache.dir
+/home/doyoungkim/2016035050/hw6-1/build/CMakeFiles/edit_cache.dir
+/home/doyoungkim/2016035050/hw6-1/build/CMakeFiles/simple_account.dir
+/home/doyoungkim/2016035050/hw6-1/build/CMakeFiles/simple_shape.dir

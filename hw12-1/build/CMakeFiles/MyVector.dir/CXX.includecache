@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw12-1/MyContainer.h
+iostream
+-
+
+/home/doyoungkim/2016035050/hw12-1/MyVector_main.cc
+iostream
+-
+MyContainer.h
+/home/doyoungkim/2016035050/hw12-1/MyContainer.h
+algorithm
+-
+

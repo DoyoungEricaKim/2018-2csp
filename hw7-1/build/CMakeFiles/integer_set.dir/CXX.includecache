@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw7-1/integer_set.cc
+iostream
+-
+integer_set.h
+/home/doyoungkim/2016035050/hw7-1/integer_set.h
+
+/home/doyoungkim/2016035050/hw7-1/integer_set.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+/home/doyoungkim/2016035050/hw7-1/integer_set_main.cc
+iostream
+-
+integer_set.h
+/home/doyoungkim/2016035050/hw7-1/integer_set.h
+vector
+-
+sstream
+-
+algorithm
+-
+

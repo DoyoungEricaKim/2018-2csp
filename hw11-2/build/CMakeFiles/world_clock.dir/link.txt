@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/world_clock.dir/world_clock.o CMakeFiles/world_clock.dir/world_clock_main.o  -o world_clock -rdynamic 

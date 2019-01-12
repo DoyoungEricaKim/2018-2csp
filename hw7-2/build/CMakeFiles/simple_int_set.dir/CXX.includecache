@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw7-2/simple_int_set.cc
+iostream
+-
+set
+-
+string
+-
+cstring
+-
+cctype
+-
+simple_int_set.h
+/home/doyoungkim/2016035050/hw7-2/simple_int_set.h
+
+/home/doyoungkim/2016035050/hw7-2/simple_int_set.h
+set
+-
+string
+-
+
+/home/doyoungkim/2016035050/hw7-2/simple_int_set_main.cc
+iostream
+-
+simple_int_set.h
+/home/doyoungkim/2016035050/hw7-2/simple_int_set.h
+string
+-
+set
+-
+

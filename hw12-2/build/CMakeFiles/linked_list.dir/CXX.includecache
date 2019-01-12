@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw12-2/linked_list.h
+
+/home/doyoungkim/2016035050/hw12-2/linked_list_main.cc
+iostream
+-
+linked_list.h
+/home/doyoungkim/2016035050/hw12-2/linked_list.h
+

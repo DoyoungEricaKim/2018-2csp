@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw8-2/draw_shape.cc
+iostream
+-
+draw_shape.h
+/home/doyoungkim/2016035050/hw8-2/draw_shape.h
+
+/home/doyoungkim/2016035050/hw8-2/draw_shape.h
+
+/home/doyoungkim/2016035050/hw8-2/draw_shape_main.cc
+iostream
+-
+cstring
+-
+string
+-
+draw_shape.h
+/home/doyoungkim/2016035050/hw8-2/draw_shape.h
+

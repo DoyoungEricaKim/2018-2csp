@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/reply_admin.dir/reply_admin.cc.o CMakeFiles/reply_admin.dir/reply_admin_main.cc.o  -o reply_admin -rdynamic 

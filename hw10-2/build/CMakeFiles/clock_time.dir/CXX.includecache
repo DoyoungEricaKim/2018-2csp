@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw10-2/clock_time.cpp
+iostream
+-
+iomanip
+-
+clock_time.h
+/home/doyoungkim/2016035050/hw10-2/clock_time.h
+
+/home/doyoungkim/2016035050/hw10-2/clock_time.h
+
+/home/doyoungkim/2016035050/hw10-2/clock_time_main.cc
+iostream
+-
+vector
+-
+clock_time.h
+/home/doyoungkim/2016035050/hw10-2/clock_time.h
+

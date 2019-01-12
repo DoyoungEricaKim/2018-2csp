@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/command_argument.dir/command_argument.cc.o  -o command_argument -rdynamic 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw5-3/magic_square.cc
+iostream
+-
+magic_square.h
+/home/doyoungkim/2016035050/hw5-3/magic_square.h
+
+/home/doyoungkim/2016035050/hw5-3/magic_square.h
+
+/home/doyoungkim/2016035050/hw5-3/main.cc
+iostream
+-
+cstdlib
+-
+cstring
+-
+

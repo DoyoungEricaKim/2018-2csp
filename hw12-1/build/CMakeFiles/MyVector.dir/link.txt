@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/MyVector.dir/MyVector_main.o  -o MyVector -rdynamic 

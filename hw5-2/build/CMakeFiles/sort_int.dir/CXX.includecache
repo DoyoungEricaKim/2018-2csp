@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw5-2/sort.cc
+stdio.h
+-
+sort.h
+/home/doyoungkim/2016035050/hw5-2/sort.h
+
+/home/doyoungkim/2016035050/hw5-2/sort.h
+
+/home/doyoungkim/2016035050/hw5-2/sort_int.cc
+iostream
+-
+sort.h
+/home/doyoungkim/2016035050/hw5-2/sort.h
+

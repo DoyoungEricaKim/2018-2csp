@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw11-1/string.cc
+iostream
+-
+string
+-
+string.h
+-
+string.h
+/home/doyoungkim/2016035050/hw11-1/string.h
+
+/home/doyoungkim/2016035050/hw11-1/string.h
+iostream
+-
+
+/home/doyoungkim/2016035050/hw11-1/string_main.cc
+iostream
+-
+string.h
+/home/doyoungkim/2016035050/hw11-1/string.h
+vector
+-
+string
+-
+

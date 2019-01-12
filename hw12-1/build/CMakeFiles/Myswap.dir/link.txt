@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Myswap.dir/Myswap_main.o  -o Myswap -rdynamic 

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/sorted_array.dir/sorted_array.o CMakeFiles/sorted_array.dir/sorted_array_main.o  -o sorted_array -rdynamic 

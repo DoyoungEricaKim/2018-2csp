@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw5-1/circle.cc
+iostream
+-
+circle.h
+/home/doyoungkim/2016035050/hw5-1/circle.h
+
+/home/doyoungkim/2016035050/hw5-1/circle.h
+
+/home/doyoungkim/2016035050/hw5-1/circle_main.cc
+iostream
+-
+circle.h
+/home/doyoungkim/2016035050/hw5-1/circle.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doyoungkim/2016035050/hw9-1/classes.cc
+iostream
+-
+classes.h
+/home/doyoungkim/2016035050/hw9-1/classes.h
+
+/home/doyoungkim/2016035050/hw9-1/classes.h
+
+/home/doyoungkim/2016035050/hw9-1/classes_main.cc
+iostream
+-
+vector
+-
+classes.h
+/home/doyoungkim/2016035050/hw9-1/classes.h
+
